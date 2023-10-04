@@ -1,0 +1,6 @@
+/home/coder/project/workspace/dotnetproject/TestProject/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/coder/project/workspace/dotnetproject/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/home/coder/project/workspace/dotnetproject/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/dotnetproject/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/home/coder/project/workspace/dotnetproject/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/home/coder/project/workspace/dotnetproject/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
